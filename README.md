@@ -8,7 +8,7 @@ if(condition) {|}
 
 **ENTER KEY IS PRESSED**
 
-if(condition) {
+if(condition) {<br>
 |}
 
 ==============================
@@ -26,8 +26,8 @@ if(condition) {|}
 
 **ENTER KEY IS PRESSED**
 
-if(condition) {
-    |
+if(condition) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 }
 
 ==============================
